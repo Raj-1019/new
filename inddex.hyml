@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MEMORIES WITH MY LOVE MY LADDUUUU❤️</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffcccc;
+            color: #333;
+        }
+
+        header {
+            background-color: #ff9999;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 20px auto;
+        }
+
+        .month {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .month-header {
+            background-color: #ff9999;
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+            border-radius: 8px 8px 0 0;
+            font-weight: bold;
+        }
+
+        .month-content {
+            padding: 15px;
+        }
+
+        img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        h1{
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        p{
+            font-style: italic;
+        }
+        footer{
+            background-color: #ff9999;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MEMORIES WITH MY LOVE MY LADDUUUU❤️</h1>
+        <p id="raj"> A collection of our memories from each month thank you for coming in my life and becoming the best part my love i lov you soo much mera bachaa meri ladddu i love you sonaaaa...... ❤️</p>
+    </header>
+
+    <div class="container">
+        <!-- Example Month Memory -->
+        <div class="month">
+            <div class="month-header">January</div>
+            <div class="month-content">
+                <p>january month in which my came to the earth january toh januray se start karen toh janurary start hua thaa toh main ghar aaya tha aur tumse baat kr rha tha jb tum fua ke yahn gayi thii soo starting mein toh itn anhi socha tha kyun baat kr rha hu aur sach bataun to mujhe lgta tha ki chali jaogi chorke mujhe aur main bohot jealous hota tha usse sorry uss mithe launde se pr aur kyun nhi houn hamesh usika naam japti rehti thi ki vivek yeh vivek woh sirf vivek he vivek tha trumhare life mein lakin i think humdono ka best bond janurary mein he start hua we became best frind sb kuch share krna sb batana day end pr full day discuss krna bohot maza aata tha pr main insecure tha aur hona b hi chahiye waise jo bhi ho uske baad dhere dhere hum bohot achee dost ban gaye phir aaya meri baby ka birth day 19th january sorry late wish kiya tha papa se ladai hogaya tha issliye yaad hai ki nhi nhi hai toh lo dekhlo januray was full of ups and down issi time tumhay harash paresan kr rha tha aur tushar bhi text kiya tha aur mainly iss time jee tha thank you tum bohot suppotrt ki thi waise pura january toh recap nhi kr skta hu itna se kaam chalo i love you  </p>
+                
+            </div>
+        </div>
+
+        <div class="month">
+            <div class="month-header">February</div>
+            <div class="month-content">
+                <p>February kaise bhul skta hu realise hua ki i love you sbse down tha iss time mein main aur tum nhi thi iss time mere aur sbse low feel krrha tha starting se he phir result bhi aagay aur tum ussdin mere se baat bhi nhi ki mujhe laaga ki kitna worth less hu dhrer dhere realise hua ki main bohot pyar krta hu tumse aur yeh realisation mujhe 10th February ko hua jb tum boli tumhara vivek toh laga sb khatam hogaya main jisse pyar krta hu woh mujhe kuchnhi manti bohot gussa aaya lakin phir laga still main dost ban ke bhi tumhare sath rehna chata hu issliye i decided ki nhi btana chahiye ki i love you toh maine nhi btaya phir humdono ka he paper start hone wala tha toh 18th ko insta se whatsapp pr switch hogaye humdono uss time bhi tum iske liye marti thi ki vivek tumhara number kyun nhi manga iske liye bhi bura lagta tha lakin koi baat nhi purana bat yaad nhi krna chahiye khai 222 aagaya mera paper start hogay madam aur humdono sirf raat ko baat karne lage apka bhi paper start hogaya tha ohh haan aab toh khatam hogaya February now march time jisme aapne mujhe bilkul he time nhi diya...chahliye phir </p>
+        
+            </div>
+        </div>
+        <div class="month">
+            <div class="month-header">March</div>
+            <div class="month-content">
+                <p>toh march start with exam exam exam aur apka mujhe bilkul time nhi dena aap time dena band krdiya lakin mera pyar apke liye badta he gaya iss time vivek se baat nhi hota tha issliye shayad tum jayda on nhi aati thi lakin jb aati thi main bohot egarly wait krta tha tumhare liye paper khatam hua humlog ka dost i think iss time thak bohot achaa hogaya tha humlog family ke bare mein bhi discuss krne lage thay riddhi ka birth pura shyad tumhay dikhaya tha uske baad holi hua toh bhi humlogon se baat kiya tha kafi usdin bhi uske baad mera second jee aur mera cricket start hogaya chalo jayda time he nhi di thi jb toh kitna he baat hoga aage chalte hain april hmmmmmmmmm.......</p>
+            </div>
+        </div>
+        <div class="month">
+            <div class="month-header">April</div>
+            <div class="month-content">
+                <p>toh april mera maybe one of the best month iss saal ka kehskta hu cricket aur tum ghar pr rehna thoda kaaam krdiya tha maine jayda tar tumhare sath baat krta tha yaa phir ground mein rehta tha nhi toh chai dukan pr par tum kafi active rehti thi bohot baat krte tahy humdono iss time pr bhi aur bohot kuch share bhi kete thay aur kaise bhul skta hu offically first call pr baat iss month mein hua tha phir baat krna start krdiye call pr bhi kabhi kabhi humdono aur april mein bohot sara paper bhi diya toh kafi travel bhi kiyan ohh haan kolkata bhi toh aaya tha 28 ko aur kisiko bola tha ki mil lo main aajaunga milne tumse tumhare school lakin milna he nhi tha aur bola bhi ki achaa nhi lg rha hai is log drink smoke kr rhe hai lakin koi kuch dhyan nhi diya mera mood kharab hogay aur ghar aagaya toh raat ko yaad aaya ki koi naraz hai ussko manna bhi hoga toh call ki thi aur baat bhi merese nhi krna tha amn se krna tha haina khair jo bhi ho bohot gusa tha main mil lena chahiye tha lakin jaisa jiska soch khair 30 ko ghar aagaya thaa main april khatam ho gaya main kafi off tha isske baad lakin phir tumse baat krke toh sb thik ho hejata hai toh chalo phir may mein kisika dil yuta tha iss month mein bada nh </p>
+            </div>
+        </div>
+        <div class="month">
+            <div class="month-header">May</div>
+            <div class="month-content">
+                <p> may kisika dil tuta tha may mein unka mitha aur so called dost unko boldiya tha ki baat nhi karega aur uske ghar wale meri sonaa ko kitna bole thay first time mujhe call krke rro rhi thi tum mujhe laga kya hogya itna special tha kya kii uske nhi baat krne se rrone lagegi khair woh toh tumhara decision tha lakin main toh aadha mar jata tha ki meri sona roo rhi hai kiske liye lakin aur haan issi time mein lagta tah tumhay nh ki main bhi chor dunga tumhay khair main kitna try kiya ki merese baat kiya karo lakin aapko bohoy jayda he dhukh hogaya tha uske jane ka toh tum merese baat krna km kardi ikk bohot kharab tha iss month mein lakin still tum sb share krskti thi merese lakin tum bbat nhi krna jayda sahi samjhi phir mere bohot try krne ke baad tum baat krna start ki lakin tum phir bhi eaise behave krti thii yeh month utna he low tha jitna tumhara thaa khair iss month mein bhi humne km baat ki lakin i think ki yeh nhi hota toh humdono sath nhi hote... aur haan yehi month tha jisme maine tumhay bataya tha ki main pyar krta hu ...date toh yaad nhi lakin maine iss month mein batya tha.....</p>
+            </div>
+    </div>
+    <div class="month">
+        <div class="month-header">June</div>
+        <div class="month-content">
+            <p>june maybe mera sabse kharab month aur yeh saal bhi waisa he tha lakin tum thi mere pass baas issliye achaa tha thoda sa mera tumhara jhagda hota tha start mein woh bhi sirf usi vivek ke karan lakin jayda din nhi i think maine bohot kuch kiya iss month ki tum nhi raho aise aur tumhara mood acha hojaye hua lakin bohot baad humara ladai hua tha mere birthday se phele aur mujhe laga tha ki tum bhul gayi ki mera birth day hai lakin tumhay yaad tha tum story algai i think abhi tk ka best story tha jo mere liye koi lagaya tha didi ke alawa june mahina kabhi sahi nhi tha kabhi bhi aur yeh bhi nhi he raaha aur mera pap se bohot sara jhada hota tha pr thank you tum meresath thii hamesha bohot kuch hua tha mujhe yaad nhi krna lakin thank you for always be with and give me comfort aur issi ke sath yeh month aur vivek puran khatam hogaya.....lets go to july.......month of bohot sara ladai... </p>
+        </div>
+    </div>
+    <div class="month">
+        <div class="month-header">July</div>
+        <div class="month-content">
+            <p>month of ladai july papa se bohot sara ladai ghar pr bohot sara ladai tumhare sath nhi hua lakin tum yahan bohot support kari mujhe thank all i will always be thankfull kyunki tum mere liye stand li mujhese achee sebatt kari i think mere pyar aur strong hogaya haai iss time mein bohot  jayda pyar hogaya tumse mujhe maine show bhi krna shayad start krdiya haan yeh month start aachaa nhi hua thaa pr iska end kafi aacha hua tha college chala gaya 5tumse bohot jayda baat krna start krdiya call pr roz baat krna start krdiye thay humlog kitna achaa time spent krte thay humlog bohot maaza aata tha tum main aur raat ko baat kabhi kabhi din mein bhi phir yeh month bhi khtam hogaya... aur mera pyar bohot jayda badh gaya.... </p>
+        </div>
+    </div>
+    <div class="month">
+        <div class="month-header">August</div>
+        <div class="month-content">
+        <p> august mahine ka baat nhi krna chahta hu llakin still yeh month ka start mein jo time humdono ne spend kiya woh mera best time tha mera tumhare se din bhar kaa sara baat raat ko krna humara puri raat baat karna sb kuch share kr hasna mazak krna aur sbse jayda mera tumse baat krna mera tumse baat krna he sbse bara baat thaa lakin mujhe aage kaa baat nhi krna hai main nhi chahta ki tum jayda socho okay please please please mood nhi kharab krna toh yeh month tumhare liye sbse low tha next month ka baat krte hain</p> 
+        </div>
+    </div>
+    <div class="month">
+        <div class="month-header">Septemer</div>
+        <div class="month-content">
+            <p>september mein mujhe lagta tha ki maine bohot kosis kiya ki tum low nhi feel karo kyun main samj skta hu tum low thi bohot main bataya ki tumse kitna pyar krta hu aur yeh monyh bohot special hai kyun ki iss time mein humlog apne baby ka baat krna start krdiye thay humdono kitna baat krte thay ustime mein yaad hai tumhay ki baby bay ka he baaat krte thay sirf baat krte thay ki humdono ka baby kitna sundar hogaa maus ake beti se bhi bohot jayda sundar aur main kitna pyar krta hu yeh bhi bataya mujhe pata hai bohot low time tha tumhara lakin mujhe lagta hai ki mera aur ab tumhara bhi pyar bohot strong hua aur main he nhi aab tum bhi feel krna start krdi mere liye aur main duniya ka sabse luckly aadmi ban gaya mujhe mera phele pyar mil gaya mujh mil gaya jo mujhe chahiya tha mujhe meri sonaaa mili iss month jo mujhe bhi pyar krti thi.....</p>
+        </div>
+    </div>
+    <div class="month">
+        <div class="month-header">October</div>
+        <div class="month-content">
+            <p>october wahi mahina hai jisme tum bhi boli ki tum puche bhi like krti ho hayeee main toh mar he gaya main toh tum jb kahi toh main kitna khus tha ki tum mujhe pyar krti ho bohot special feel hua ki jo main chahta tha woh hogya tum aur main iss time mein kitna baat krte thay kitna achha time tha itna maza aata tha lakin in sb se jayda main aur tum kitna sahi tha haan call pr baat km hogaya iss mahine lakin phir bhi humlog text krte thay sbkuch ka har time text krte thay kinna sahi rehta tha ocotor was also one of the best month in this year waisebhi jayada aache mahine thay nhi lakin sb tumhare karan se achee hogaye thay i love you soo much.....</p>
+        </div>
+    </div>
+    <div class="month">
+        <div class="month-header">November</div>
+        <div class="month-content">
+            <p>i think noverber sb se best month tha yaad hai mera subha uthana main tumhay call krta tha subha subha hum jb maan hota tha call krlete thay kitna achaa time tha woh raat ko baat krna tumhara mere liye raat ko jbtk neend nh aajaye tb tk baat krti thi humlog kitna baat krte thay raat ko aur iss bich aapke sath eak aur kaand hua priyanshu kaand aur tumhay kitna bola tb jake mujhe usse baat krne di aur haan id ka password di haina vivas he nhi tha issliye nhi deti thi khair jo bhi ho lakin in think yeh best time tha woh sb i miss those days i will always miss mujhe long distance mein rwehna hai toh aise he rehna hai ki main jb chaun call krsakun jb maan ho main baat krsakun tumhay call krke utahun aur sone time bhi main good night krke soun lakin aisa tbtk he hua jb tk mummy nhi thii phir humlog wapas back to normal hogaye lakin i still miss those days.....and i miss you alot and i love you so much... </p>
+        </div>
+    </div>
+    <div class="month">
+        <div class="month-header">December</div>
+        <div class="month-content">
+            <p>december ka start hua apke phone ko kharab krke mere se baat km krne kaa khel krne se phone kharab krdi ki merese baat nh karpao phir woh thik hogaya lakin pata nhi kons bemari hua phirse kharab hogaya uske baad woh kabhi thik nhi hua tum on aana km krdi kabhi kbhi toh aati he nhi thi eak din toh aayi he nhi pure din khair lakin jb mummy aayi toh anju aur ansh mummy ko mere bare mein bata diye aur mummy ko main bohot pasand aaya hayee kitna khgus tha usdin main aaur abhi bhi goosebump bhi aaya aur iss tarah tumse ladai jhagra aur kalesh ke sath yeh saal bhi khatam huaa i hope yeh saal ke tarah he baki ka saal bhi main tumhare sath spend karun i love you i will make sure tum mere sath he raho aur khus raho i love you the most mera bachaaa meri laddu....</p>
+        </div>
+    </div>
+    <footer><h1>I LOVE YOU SONAAAAAA....❤️</h1></footer>
+</body>
+</html>
